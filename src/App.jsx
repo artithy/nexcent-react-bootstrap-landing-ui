@@ -5,6 +5,7 @@ import Community from "./components/Community";
 import Pixelgrade from "./components/Pixelgrade";
 import Stats from "./components/Stats";
 import FooterDesign from "./components/FooterDesign";
+import Testimonial from "./components/Testimonial";
 function App() {
   return (
     <>
@@ -15,6 +16,7 @@ function App() {
       <Pixelgrade />
       <Stats />
       <FooterDesign />
+      <Testimonial />
     </>
   );
 }
